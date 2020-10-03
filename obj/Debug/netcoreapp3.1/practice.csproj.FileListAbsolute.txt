@@ -1,0 +1,13 @@
+C:\Users\pmaity\Desktop\lc101\c#\practice\obj\Debug\netcoreapp3.1\practice.csprojAssemblyReference.cache
+C:\Users\pmaity\Desktop\lc101\c#\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfoInputs.cache
+C:\Users\pmaity\Desktop\lc101\c#\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfo.cs
+C:\Users\pmaity\Desktop\lc101\c#\practice\obj\Debug\netcoreapp3.1\practice.csproj.CoreCompileInputs.cache
+C:\Users\pmaity\Desktop\lc101\c#\practice\bin\Debug\netcoreapp3.1\practice.exe
+C:\Users\pmaity\Desktop\lc101\c#\practice\bin\Debug\netcoreapp3.1\practice.deps.json
+C:\Users\pmaity\Desktop\lc101\c#\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.json
+C:\Users\pmaity\Desktop\lc101\c#\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.dev.json
+C:\Users\pmaity\Desktop\lc101\c#\practice\bin\Debug\netcoreapp3.1\practice.dll
+C:\Users\pmaity\Desktop\lc101\c#\practice\bin\Debug\netcoreapp3.1\practice.pdb
+C:\Users\pmaity\Desktop\lc101\c#\practice\obj\Debug\netcoreapp3.1\practice.dll
+C:\Users\pmaity\Desktop\lc101\c#\practice\obj\Debug\netcoreapp3.1\practice.pdb
+C:\Users\pmaity\Desktop\lc101\c#\practice\obj\Debug\netcoreapp3.1\practice.genruntimeconfig.cache
